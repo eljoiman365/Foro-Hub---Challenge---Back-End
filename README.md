@@ -16,5 +16,5 @@ Este código simula un foro, el cual por medio de diferentes endpoints permite l
 
 ## Hecho por:
 
-👾Yorman Corba 👾 - 💼 Linkedln: 
+👾Yorman Corba 👾 - 💼 Linkedln: https://www.linkedin.com/in/yorman-estiben-corba-casta%C3%B1o-143b13220/
 
